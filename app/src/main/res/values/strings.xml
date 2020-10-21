@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">teacher section</string>
+    <string name="enter_question_here">Enter Question here</string>
+    <string name="enter_option">Enter option</string>
+    <string name="preview">Preview</string>
+    <string name="next">Next</string>
+    <string name="previous">previous</string>
+    <string name="quesion_1">Quesion 1</string>
+    <string name="question">Question</string>
+    <string name="create_quiz">Create Quiz</string>
+    <string name="quiz_name">Quiz Name</string>
+    <string-array name="branch">
+        <item>CSE</item>
+        <item>Civil</item>
+        <item>Mechanical</item>
+    </string-array>
+</resources>
